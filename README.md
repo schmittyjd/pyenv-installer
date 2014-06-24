@@ -1,6 +1,6 @@
 # pyenv installer
 
-This tools is used to install `pyenv` and friends.
+This tools is used to install `pyenv` and friends. (this fork includes the virtualenvwrapper plugin rather than the virtualenv plugin)
 
 This plugin was inspired from [rbenv-installer](https://github.com/fesplugas/rbenv-installer).
 
@@ -26,7 +26,7 @@ To update pyenv and friends by running:
 
 (The MIT License)
 
-* Copyright (c) 2013 Yamashita, Yuu
+* Copyright (c) 2014 Jake Schmitz
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
